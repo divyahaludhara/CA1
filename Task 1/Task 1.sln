@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliciousChurros", "DeliciousChurros\DeliciousChurros.csproj", "{B74E1A36-C679-1147-3FAF-E131FC31C24D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliciousChurrosTests", "DeliciousChurrosTests\DeliciousChurrosTests.csproj", "{A8D85077-85E0-5834-9AA6-88E90B243FA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B74E1A36-C679-1147-3FAF-E131FC31C24D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B74E1A36-C679-1147-3FAF-E131FC31C24D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B74E1A36-C679-1147-3FAF-E131FC31C24D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B74E1A36-C679-1147-3FAF-E131FC31C24D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8D85077-85E0-5834-9AA6-88E90B243FA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8D85077-85E0-5834-9AA6-88E90B243FA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8D85077-85E0-5834-9AA6-88E90B243FA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8D85077-85E0-5834-9AA6-88E90B243FA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDF7A9BD-11C5-4602-B085-2F4365B4F37B}
+	EndGlobalSection
+EndGlobal
