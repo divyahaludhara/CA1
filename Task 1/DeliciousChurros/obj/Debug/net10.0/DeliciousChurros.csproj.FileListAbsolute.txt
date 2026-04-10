@@ -1,0 +1,14 @@
+D:\Advance programming\CA1\Task 1\DeliciousChurros\bin\Debug\net10.0\DeliciousChurros.exe
+D:\Advance programming\CA1\Task 1\DeliciousChurros\bin\Debug\net10.0\DeliciousChurros.deps.json
+D:\Advance programming\CA1\Task 1\DeliciousChurros\bin\Debug\net10.0\DeliciousChurros.runtimeconfig.json
+D:\Advance programming\CA1\Task 1\DeliciousChurros\bin\Debug\net10.0\DeliciousChurros.dll
+D:\Advance programming\CA1\Task 1\DeliciousChurros\bin\Debug\net10.0\DeliciousChurros.pdb
+D:\Advance programming\CA1\Task 1\DeliciousChurros\obj\Debug\net10.0\DeliciousChurros.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advance programming\CA1\Task 1\DeliciousChurros\obj\Debug\net10.0\DeliciousChurros.AssemblyInfoInputs.cache
+D:\Advance programming\CA1\Task 1\DeliciousChurros\obj\Debug\net10.0\DeliciousChurros.AssemblyInfo.cs
+D:\Advance programming\CA1\Task 1\DeliciousChurros\obj\Debug\net10.0\DeliciousChurros.csproj.CoreCompileInputs.cache
+D:\Advance programming\CA1\Task 1\DeliciousChurros\obj\Debug\net10.0\DeliciousChurros.dll
+D:\Advance programming\CA1\Task 1\DeliciousChurros\obj\Debug\net10.0\refint\DeliciousChurros.dll
+D:\Advance programming\CA1\Task 1\DeliciousChurros\obj\Debug\net10.0\DeliciousChurros.pdb
+D:\Advance programming\CA1\Task 1\DeliciousChurros\obj\Debug\net10.0\DeliciousChurros.genruntimeconfig.cache
+D:\Advance programming\CA1\Task 1\DeliciousChurros\obj\Debug\net10.0\ref\DeliciousChurros.dll
